@@ -1,5 +1,4 @@
-# lista.m3u
-#EXTM3U #EXTINF:1
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD2
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
